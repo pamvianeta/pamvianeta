@@ -1,4 +1,4 @@
-# Hi, I’m Pam Vianeta 👋
+# Hi, I’m Pam Viana Mendieta 👋
 
 **Business Intelligence & Data Analysis Enthusiast**
 
