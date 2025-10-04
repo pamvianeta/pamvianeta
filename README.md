@@ -1,4 +1,4 @@
-# Hi, I’m Pam Viana Mendieta 👋
+# Hi, I’m Pam Viana 👋
 
 **Business Intelligence & Data Analysis Enthusiast**
 
@@ -16,30 +16,19 @@ I’m passionate about transforming data into actionable insights and driving bu
 ### 🚀 Featured Project
 
 **📊 500 Best Companies in USA Dashboard & Storytelling**  
-Created an interactive dashboard to visualize and tell the story of the top 500 companies in the USA, empowering business stakeholders with deep insights and easy-to-understand visual narratives.
+Created an interactive dashboard to visualise and tell the story of the top 500 companies in the USA, empowering business stakeholders with deep insights and easy-to-understand visual narratives.
 
 ---
 
 ### 🛠️ Top Skills
+* 🖥️ **BI y Data Analysis:** **Power BI**, **Tableau**, Pandas, NumPy, Power Query, Storytelling, Looker Studio
+* 🗄️ **Lean Six Sigma:** Value Stream Mapping, DMAIC, Kaizen, Control Charts, Descriptive Statistics
+* 🐍 **Programing languages:** Python
+  
+### 🌱 Education
 
-- Power BI
-- Data Analysis & Processing
-- Process Flow Mapping
-- Lean Six Sigma (Green Belt)
-- DMAIC Methodology
-- Power Query
-- Storytelling
-- Microsoft Excel
-- Tableau
-- Looker Studio
-
----
-
-### 🌱 Fun Facts
-
-- I love tackling process improvement challenges.
-- Teamwork and continuous learning keep me motivated.
-- Always seeking new ways to turn data into value!
+- Business Intelligence, Tec Milenio, 2025
+- Data Analysis, TripleTen, 2025
 
 ---
 
