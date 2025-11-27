@@ -21,7 +21,7 @@ Created an interactive dashboard to visualise and tell the story of the top 500 
 ---
 
 ### 🛠️ Top Skills
-* 🖥️ **BI y Data Analysis:** **Power BI**, **Tableau**, Pandas, NumPy, Power Query, Storytelling, Looker Studio
+* 🖥️ **BI y Data Analysis:** Power BI, Tableau, Pandas, NumPy, Power Query, SciPy, Storytelling, Looker Studio.
 * 🗄️ **Lean Six Sigma:** Value Stream Mapping, DMAIC, Kaizen, Control Charts, Descriptive Statistics
 * 🐍 **Programing languages:** Python
   
@@ -29,6 +29,7 @@ Created an interactive dashboard to visualise and tell the story of the top 500 
 
 - Business Intelligence, Tec Milenio, 2025
 - Data Analysis, TripleTen, 2025
+- Biotech Engineering, 2017
 
 ---
 
