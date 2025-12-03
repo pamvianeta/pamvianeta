@@ -35,7 +35,7 @@ Created an interactive dashboard to visualise and tell the story of the top 500 
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pamvmenta-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/pamvmenta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pvmenta-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/pvmenta)
 
 ---
 
