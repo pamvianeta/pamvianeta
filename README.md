@@ -1,6 +1,6 @@
 # Hi, I’m Pam Viana 👋
 
-**Business Intelligence & Data Analysis Enthusiast**
+**Business Intelligence & Data Analyst**
 
 ---
 
