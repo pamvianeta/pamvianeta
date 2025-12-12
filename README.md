@@ -17,12 +17,21 @@ I combine exploratory data analysis, storytelling, visualization, automation, Py
 
 ### Top Skills
 
-* 🖥️ **BI y Data Analysis:** EDA, Storytelling, Power BI, Tableau, Power Query, Looker Studio.
+* 🌱 **Soft skills:** Adaptation, Problem-solving, Time-management, Team-work.
+* 🖥️ **BI y Data Analysis:**
+  
+![EDA](https://img.shields.io/badge/EDA-006064?style=for-the-badge&logo=chartdotjs&logoColor=white) 
+![Storytelling](https://img.shields.io/badge/Storytelling-336699?style=for-the-badge&logo=bookstack&logoColor=white) 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-5E5C9E?style=for-the-badge&logo=google&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-333333?style=for-the-badge&logo=microsoft&logoColor=white)
+
 * 🗄️ **Lean Six Sigma:** Value Stream Mapping, DMAIC, Kaizen, Control Charts, Descriptive Statistics
 * 🐍 **Programing languages and Libraries:** 
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3670A0?style=for-the-badge&logo=matplotlib&logoColor=white) ![Scipy](https://img.shields.io/badge/Scipy-025E8C?style=for-the-badge&logo=scipy&logoColor=white)
-* 🌱 **Soft skills:** Adaptation, Problem-solving, Time-management, Team-work.
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3670A0?style=for-the-badge&logo=matplotlib&logoColor=white) ![Scipy](https://img.shields.io/badge/Scipy-025E8C?style=for-the-badge&logo=scipy&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-3670A0?style=for-the-badge&logo=seaborn&logoColor=white)
+
 
 ###  Education
 
