@@ -4,21 +4,23 @@
 
 ### About Me
 
-I am a data analyst and business intelligence analyst with experience driving measurable improvements in data accuracy, operational efficiency, and decision-making. I have worked across highly regulated sectors, including healthcare, manufacturing, and research, transforming data-driven processes and achieving results such as a 20% increase in data quality, a 35% reduction in operational defects, and a 15% decrease in rework costs.
+I am a data analyst with experience driving measurable improvements in data accuracy, operational efficiency, and decision-making. I have worked across highly regulated sectors, including healthcare, manufacturing, and research, transforming data-driven processes and achieving results such as a 20% increase in data quality, a 35% reduction in operational defects, and a 15% decrease in rework costs.
 
-I combine exploratory data analysis, visualization, automation, Python, SQL, Power BI, Power Query, and Tableau to transform complex information into actionable insights for leaders and teams. My strength lies in connecting data, processes, and strategic decision-making through dashboards, structured analysis, and BI solutions that optimise performance. I aim to continue adding value by enabling organizations to make smarter, more efficient, and metrics-driven decisions.
-
----
-
-- **Profession:** Business Intelligence & Data Analyst, MSc in Biotechnology.
-- **Specialities:** Power BI, Business intelligence, Lean Six Sigma (Green Belt), Data Wrangling, Process Flow Mapping, DMAIC Methodology
+I combine exploratory data analysis, storytelling, visualization, automation, Python, SQL, Power BI, Power Query, and Tableau to transform complex information into actionable insights for leaders and teams. My strength lies in data analytics and research methodology design, through dashboards, structured analysis, and business intelligence solutions that optimise performance. I aim to continue adding value by enabling organizations to make smarter, more efficient, and metrics-driven decisions.
 
 ---
 
-### 🛠️ Top Skills
+- **Profession:** Data Analyst, MSc in Biotechnology.
+- **Specialities:** Datavisualization, Business Intelligence, Lean Six Sigma (Green Belt), Data Wrangling, Process Flow Mapping, DMAIC Methodology, Process and product optimization.
+
+---
+
+### Top Skills
+
 * 🖥️ **BI y Data Analysis:** Power BI, Tableau, Pandas, NumPy, Power Query, SciPy, Seaborn, Matplotlib, Storytelling, Looker Studio.
 * 🗄️ **Lean Six Sigma:** Value Stream Mapping, DMAIC, Kaizen, Control Charts, Descriptive Statistics
 * 🐍 **Programing languages:** Python, SQL.
+* 🤓 **Soft skills:** Adaptation, Problem-solving, Time-management, Team-work.
   
 ### 🌱 Education
 
