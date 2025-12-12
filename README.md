@@ -12,6 +12,7 @@ I combine exploratory data analysis, storytelling, visualization, automation, Py
 
 ### Top Skills
 
+
 * 🌱 **Soft skills:**
   
 ![Adaptability](https://img.shields.io/badge/Adaptability-A94576?style=for-the-badge&logo=spring&logoColor=white)
@@ -57,6 +58,12 @@ I combine exploratory data analysis, storytelling, visualization, automation, Py
 - Data Analysis, TripleTen, 2025
 - MSc in Biotechnology, 2021
 
+---
+## 💻 Proyecto: Maximizando Customer Loyalty
+
+[![Boosting Gym Users Retention](URL_DE_LA_IMAGEN_DE_PORTADA)](URL_DEL_REPOSITORIO_DEL_PROYECTO)
+
+**[Maximizando Customer Loyalty: Predicting & Reducing Churn at Model Fitness](URL_DEL_REPOSITORIO_DEL_PROYECTO)**
 ---
 
 ### Connect with Me
