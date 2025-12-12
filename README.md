@@ -1,4 +1,4 @@
-<img width="1287" height="321" alt="image" src="https://github.com/user-attachments/assets/1df4986d-cf22-4108-a2df-2a5b5bb1e4f5" />
+<img width="1550" height="460" alt="image" src="https://github.com/user-attachments/assets/3a7a016b-051e-48d5-a3af-6ed526f7face" />
 
 ---
 
@@ -20,9 +20,9 @@ I combine exploratory data analysis, storytelling, visualization, automation, Py
 * 🖥️ **BI y Data Analysis:** Power BI, Tableau, Pandas, NumPy, Power Query, SciPy, Seaborn, Matplotlib, Storytelling, Looker Studio.
 * 🗄️ **Lean Six Sigma:** Value Stream Mapping, DMAIC, Kaizen, Control Charts, Descriptive Statistics
 * 🐍 **Programing languages:** Python, SQL.
-* 🤓 **Soft skills:** Adaptation, Problem-solving, Time-management, Team-work.
+* 🌱 **Soft skills:** Adaptation, Problem-solving, Time-management, Team-work.
   
-### 🌱 Education
+###  Education
 
 - Business Intelligence, Tec Milenio, 2025
 - Data Analysis, TripleTen, 2025
@@ -30,7 +30,7 @@ I combine exploratory data analysis, storytelling, visualization, automation, Py
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pvmenta-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/pvmenta)
 
