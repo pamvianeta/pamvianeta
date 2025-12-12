@@ -13,7 +13,7 @@ I combine exploratory data analysis, storytelling, visualization, automation, Py
 ### Top Skills
 
 
-* 🌱 **Soft skills:**
+*  **Soft skills:**
   
 ![Adaptability](https://img.shields.io/badge/Adaptability-A94576?style=for-the-badge&logo=spring&logoColor=white)
 ![Communication](https://img.shields.io/badge/Communication-00A99D?style=for-the-badge&logo=googlegroups&logoColor=white)
@@ -22,7 +22,7 @@ I combine exploratory data analysis, storytelling, visualization, automation, Py
 ![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-006A4E?style=for-the-badge&logo=mindmeister&logoColor=white)
 ![Time Management](https://img.shields.io/badge/Time--management-694C76?style=for-the-badge&logo=chronos&logoColor=white)
 
-* 🖥️ **BI y Data Analysis:**
+*  **BI y Data Analysis:**
   
 ![EDA](https://img.shields.io/badge/EDA-006064?style=for-the-badge&logo=chartdotjs&logoColor=white) 
 ![Storytelling](https://img.shields.io/badge/Storytelling-336699?style=for-the-badge&logo=bookstack&logoColor=white) 
@@ -31,7 +31,7 @@ I combine exploratory data analysis, storytelling, visualization, automation, Py
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-5E5C9E?style=for-the-badge&logo=google&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power%20Query-333333?style=for-the-badge&logo=microsoft&logoColor=white)
 
-* 🐍 **Programming languages and Libraries:** 
+*  **Programming languages and Libraries:** 
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -41,7 +41,7 @@ I combine exploratory data analysis, storytelling, visualization, automation, Py
 ![Scipy](https://img.shields.io/badge/Scipy-025E8C?style=for-the-badge&logo=scipy&logoColor=white) 
 ![Seaborn](https://img.shields.io/badge/Seaborn-3670A0?style=for-the-badge&logo=seaborn&logoColor=white)
 
-* 🗄️ **Specialities:**
+*  **Specialities:**
 
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-9B59B6?style=for-the-badge&logo=tableau&logoColor=white)
 ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-2ECC71?style=for-the-badge&logo=powerbi&logoColor=white)
@@ -62,8 +62,12 @@ I combine exploratory data analysis, storytelling, visualization, automation, Py
 
 ### Relevant projects
 
+<img width="515" height="445" alt="image" src="https://github.com/user-attachments/assets/4cfb53e1-91e9-43a9-992d-ccf3354d22b2" />
 **[Identifying key patterns and factors of global video games sales](https://github.com/pamvianeta/Identifying-key-patterns-and-factors-of-global-video-games-sales)**
 
+
+
+**[Optimization of service predictability and customer satisfaction of Taxi company in Chicago ](https://github.com/pamvianeta/Identifying-key-patterns-and-factors-of-global-video-games-sales)**
 
 ---
 
@@ -71,7 +75,6 @@ I combine exploratory data analysis, storytelling, visualization, automation, Py
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-pvmenta-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/pvmenta)
 
----
 I’m passionate about transforming data into actionable insights and driving business decisions with clarity. With a strong foundation in business intelligence, data processing, and process improvement, I thrive on uncovering trends and crafting impactful dashboards.
 
 *Let’s connect and make data work for you!*
