@@ -19,8 +19,8 @@ I combine exploratory data analysis, storytelling, visualization, automation, Py
 
 * 🖥️ **BI y Data Analysis:** EDA, Storytelling, Power BI, Tableau, Power Query, Looker Studio.
 * 🗄️ **Lean Six Sigma:** Value Stream Mapping, DMAIC, Kaizen, Control Charts, Descriptive Statistics
-* 🐍 **Programing languages:** Python, SQL.
-  * **Libraries:** ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white), NumPy, SciPy, Seaborn, Matplotlib.
+* 🐍 **Programing languages and Libraries:** Python, SQL.
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3670A0?style=for-the-badge&logo=matplotlib&logoColor=white) ![Scipy](https://img.shields.io/badge/Scipy-025E8C?style=for-the-badge&logo=scipy&logoColor=white)
 * 🌱 **Soft skills:** Adaptation, Problem-solving, Time-management, Team-work.
 
 ###  Education
