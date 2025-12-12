@@ -60,9 +60,9 @@ I combine exploratory data analysis, storytelling, visualization, automation, Py
 
 ---
 
-## Relevante projects
+### Relevant projects
 
-**[Maximizando Customer Loyalty: Predicting & Reducing Churn at Model Fitness](URL_DEL_REPOSITORIO_DEL_PROYECTO)**
+**[Identifying key patterns and factors of global video games sales]([(https://github.com/pamvianeta/Identifying-key-patterns-and-factors-of-global-video-games-sales)])**
 
 
 ---
