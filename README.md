@@ -9,7 +9,7 @@
 I’m passionate about transforming data into actionable insights and driving business decisions with clarity. With a strong foundation in business intelligence, data processing, and process improvement, I thrive on uncovering trends and crafting impactful dashboards.
 
 - **Profession:** Business Intelligence & Data Analyst, MSc in Biotechnology.
-- **Specialties:** Power BI, Business intelligence, Lean Six Sigma (Green Belt), Data Wrangling, Process Flow Mapping, DMAIC Methodology
+- **Specialities:** Power BI, Business intelligence, Lean Six Sigma (Green Belt), Data Wrangling, Process Flow Mapping, DMAIC Methodology
 
 ---
 
