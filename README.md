@@ -9,12 +9,11 @@ I am a data analyst with experience driving measurable improvements in data accu
 I combine exploratory data analysis, storytelling, visualization, automation, Python, SQL, Power BI, Power Query, and Tableau to transform complex information into actionable insights for leaders and teams. My strength lies in data analytics and research methodology design, through dashboards, structured analysis, and business intelligence solutions that optimise performance. I aim to continue adding value by enabling organizations to make smarter, more efficient, and metrics-driven decisions.
 
 ---
-- 
----
 
 ### Top Skills
 
 * 🌱 **Soft skills:**
+  
 ![Adaptability](https://img.shields.io/badge/Adaptability-A94576?style=for-the-badge&logo=spring&logoColor=white)
 ![Communication](https://img.shields.io/badge/Communication-00A99D?style=for-the-badge&logo=googlegroups&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/Problem--solving-3870A0?style=for-the-badge&logo=checkmarx&logoColor=white)
@@ -42,6 +41,7 @@ I combine exploratory data analysis, storytelling, visualization, automation, Py
 ![Seaborn](https://img.shields.io/badge/Seaborn-3670A0?style=for-the-badge&logo=seaborn&logoColor=white)
 
 * 🗄️ **Specialities:**
+
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-9B59B6?style=for-the-badge&logo=tableau&logoColor=white)
 ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-2ECC71?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Data Wrangling](https://img.shields.io/badge/Data%20Wrangling-E67E22?style=for-the-badge&logo=data%20transfer&logoColor=white)
