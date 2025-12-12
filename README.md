@@ -62,7 +62,7 @@ I combine exploratory data analysis, storytelling, visualization, automation, Py
 
 ### Relevant projects
 
-**[Identifying key patterns and factors of global video games sales]([(https://github.com/pamvianeta/Identifying-key-patterns-and-factors-of-global-video-games-sales)])**
+**[Identifying key patterns and factors of global video games sales](https://github.com/pamvianeta/Identifying-key-patterns-and-factors-of-global-video-games-sales)**
 
 
 ---
