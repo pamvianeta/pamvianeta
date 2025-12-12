@@ -9,21 +9,14 @@
 I’m passionate about transforming data into actionable insights and driving business decisions with clarity. With a strong foundation in business intelligence, data processing, and process improvement, I thrive on uncovering trends and crafting impactful dashboards.
 
 - **Profession:** Business Intelligence & Data Analyst, MSc in Biotechnology.
-- **Specialties:** Power BI, Business intelligence, Lean Six Sigma (Green Belt), Data Processing, Process Flow Mapping, DMAIC Methodology
-
----
-
-### 🚀 Featured Project
-
-**📊 500 Best Companies in USA Dashboard & Storytelling**  
-Created an interactive dashboard to visualise and tell the story of the top 500 companies in the USA, empowering business stakeholders with deep insights and easy-to-understand visual narratives.
+- **Specialties:** Power BI, Business intelligence, Lean Six Sigma (Green Belt), Data Wrangling, Process Flow Mapping, DMAIC Methodology
 
 ---
 
 ### 🛠️ Top Skills
-* 🖥️ **BI y Data Analysis:** Power BI, Tableau, Pandas, NumPy, Power Query, SciPy, Storytelling, Looker Studio.
+* 🖥️ **BI y Data Analysis:** Power BI, Tableau, Pandas, NumPy, Power Query, SciPy, Seaborn, Matplotlib, Storytelling, Looker Studio.
 * 🗄️ **Lean Six Sigma:** Value Stream Mapping, DMAIC, Kaizen, Control Charts, Descriptive Statistics
-* 🐍 **Programing languages:** Python
+* 🐍 **Programing languages:** Python, SQL.
   
 ### 🌱 Education
 
