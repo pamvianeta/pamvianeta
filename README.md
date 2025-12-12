@@ -17,11 +17,12 @@ I combine exploratory data analysis, storytelling, visualization, automation, Py
 
 ### Top Skills
 
-* 🖥️ **BI y Data Analysis:** Power BI, Tableau, Pandas, NumPy, Power Query, SciPy, Seaborn, Matplotlib, Storytelling, Looker Studio.
+* 🖥️ **BI y Data Analysis:** EDA, Storytelling, Power BI, Tableau, Power Query, Looker Studio.
 * 🗄️ **Lean Six Sigma:** Value Stream Mapping, DMAIC, Kaizen, Control Charts, Descriptive Statistics
 * 🐍 **Programing languages:** Python, SQL.
+  * **Libraries:** ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white), NumPy, SciPy, Seaborn, Matplotlib.
 * 🌱 **Soft skills:** Adaptation, Problem-solving, Time-management, Team-work.
-  
+
 ###  Education
 
 - Business Intelligence, Tec Milenio, 2025
