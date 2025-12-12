@@ -52,18 +52,19 @@ I combine exploratory data analysis, storytelling, visualization, automation, Py
 
 ---
 
-###  Education
+### Education
 
 - Business Intelligence, Tec Milenio, 2025
 - Data Analysis, TripleTen, 2025
 - MSc in Biotechnology, 2021
 
 ---
-## 💻 Proyecto: Maximizando Customer Loyalty
 
-[![Boosting Gym Users Retention](URL_DE_LA_IMAGEN_DE_PORTADA)](URL_DEL_REPOSITORIO_DEL_PROYECTO)
+## Relevante projects
 
 **[Maximizando Customer Loyalty: Predicting & Reducing Churn at Model Fitness](URL_DEL_REPOSITORIO_DEL_PROYECTO)**
+
+
 ---
 
 ### Connect with Me
