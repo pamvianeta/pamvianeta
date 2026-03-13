@@ -68,7 +68,7 @@ I combine exploratory data analysis, storytelling, visualization, automation, Py
 
 
 
-**[Optimization of service predictability and customer satisfaction of Taxi company in Chicago ](https://github.com/pamvianeta/Identifying-key-patterns-and-factors-of-global-video-games-sales)**
+**[Optimization of service predictability and customer satisfaction of Taxi company in Chicago ](https://github.com/pamvianeta/Optimization-of-service-predictability-and-customer-satisfaction-of-Taxi-company-in-Chicago.git)**
 
 ---
 
