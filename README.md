@@ -69,6 +69,7 @@ I combine exploratory data analysis, storytelling, visualization, automation, Py
 
 
 **[Optimization of service predictability and customer satisfaction of Taxi company in Chicago ](https://github.com/pamvianeta/Optimization-of-service-predictability-and-customer-satisfaction-of-Taxi-company-in-Chicago.git)**
+<img width="881" height="491" alt="image" src="https://github.com/user-attachments/assets/60bd2a99-64fa-4b1b-b41e-652068a3e306" />
 
 ---
 
