@@ -54,8 +54,8 @@ I combine exploratory data analysis, storytelling, visualization, automation, Py
 
 ### Education
 
+- Data Analysis, TripleTen, 2026
 - Business Intelligence, Tec Milenio, 2025
-- Data Analysis, TripleTen, 2025
 - MSc in Biotechnology, 2021
 
 ---
